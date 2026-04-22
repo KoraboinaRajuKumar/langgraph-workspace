@@ -1,0 +1,201 @@
+Student_ID,Age,Degree,Primary_Skill,Preferred_Career_2026,Expected_Salary_LPA,Interested_in_Generative_AI
+1001,21,BA Economics,Deep Learning,Data Scientist,26,No
+1002,23,B.Com,Finance,Data Analyst,10,Yes
+1003,24,B.Tech Electronics,Finance,Full Stack Developer,20,No
+1004,21,B.Tech AI & ML,Embedded Systems,Economic Data Analyst,17,No
+1005,24,BCA,Python,FinTech Analyst,12,No
+1006,22,B.Tech Computer Science,Web Development,Data Scientist,26,No
+1007,21,B.Tech Computer Science,Embedded Systems,ML Engineer,20,No
+1008,25,B.Tech Electronics,Econometrics,FinTech Analyst,11,No
+1009,25,B.Tech IT,Cloud Computing,Economic Data Analyst,11,No
+1010,23,B.Sc Statistics,Machine Learning,AI Engineer,20,Yes
+1011,21,B.Sc Data Science,Cloud Computing,Data Scientist,25,No
+1012,25,B.Tech IT,Business Analytics,Business Analyst,18,Yes
+1013,22,B.Tech AI & ML,Business Analytics,Full Stack Developer,12,No
+1014,25,BCA,Business Analytics,Business Analyst,14,Yes
+1015,23,B.Com,Business Analytics,Full Stack Developer,10,Yes
+1016,22,BBA,Cloud Computing,AI Engineer,27,No
+1017,20,B.Tech AI & ML,Web Development,ML Engineer,28,Yes
+1018,20,B.Sc Data Science,Python,Data Analyst,11,No
+1019,21,BCA,Machine Learning,ML Engineer,22,No
+1020,20,B.Tech Electronics,Deep Learning,AI Engineer,20,Yes
+1021,21,B.Tech Electronics,Cloud Computing,Full Stack Developer,17,Yes
+1022,24,BCA,Web Development,Cloud Solutions Architect,10,No
+1023,25,B.Com,Cloud Computing,Economic Data Analyst,19,Yes
+1024,20,BA Economics,Embedded Systems,IoT Engineer,17,Yes
+1025,22,B.Tech Computer Science,Cloud Computing,Cloud Solutions Architect,19,No
+1026,22,B.Tech IT,Deep Learning,Data Analyst,12,No
+1027,25,BBA,Business Analytics,AI Engineer,22,Yes
+1028,20,B.Com,Finance,Data Analyst,18,Yes
+1029,21,BCA,Cloud Computing,AI Engineer,18,Yes
+1030,24,BCA,Business Analytics,Data Analyst,11,Yes
+1031,20,B.Tech Electronics,Python,Economic Data Analyst,13,No
+1032,23,B.Sc Statistics,Econometrics,ML Engineer,23,No
+1033,24,B.Tech Electronics,Web Development,Full Stack Developer,13,Yes
+1034,21,B.Com,Finance,Full Stack Developer,19,No
+1035,22,B.Sc Data Science,Cloud Computing,Economic Data Analyst,16,No
+1036,25,BCA,Python,Data Scientist,18,Yes
+1037,22,B.Tech IT,Python,AI Engineer,20,No
+1038,21,B.Tech Electronics,Cloud Computing,Cloud Solutions Architect,12,Yes
+1039,24,B.Tech IT,Machine Learning,ML Engineer,21,No
+1040,24,B.Tech Computer Science,Python,Economic Data Analyst,18,No
+1041,23,B.Tech AI & ML,Econometrics,Business Analyst,11,Yes
+1042,25,B.Com,Embedded Systems,Data Analyst,14,No
+1043,23,B.Tech IT,Deep Learning,Full Stack Developer,15,Yes
+1044,25,B.Com,Econometrics,Data Scientist,24,Yes
+1045,20,B.Tech Computer Science,Machine Learning,Data Scientist,24,No
+1046,23,B.Tech AI & ML,Cloud Computing,AI Engineer,18,Yes
+1047,22,B.Tech AI & ML,Business Analytics,Cloud Solutions Architect,20,No
+1048,21,B.Com,Web Development,AI Engineer,20,Yes
+1049,22,BBA,Web Development,Data Analyst,10,No
+1050,21,BCA,Finance,ML Engineer,18,Yes
+1051,22,B.Tech AI & ML,Deep Learning,Data Scientist,22,Yes
+1052,21,B.Tech AI & ML,Cloud Computing,AI Engineer,27,Yes
+1053,25,B.Tech Electronics,Cloud Computing,ML Engineer,23,No
+1054,23,B.Sc Statistics,Data Analysis,Cloud Solutions Architect,17,Yes
+1055,24,B.Com,Econometrics,Data Scientist,19,No
+1056,24,B.Com,Python,AI Engineer,25,Yes
+1057,25,BA Economics,Econometrics,FinTech Analyst,19,Yes
+1058,22,BCA,Cloud Computing,IoT Engineer,15,No
+1059,22,B.Sc Data Science,Data Analysis,ML Engineer,21,Yes
+1060,24,B.Sc Data Science,Deep Learning,Data Analyst,18,No
+1061,21,BBA,Python,Full Stack Developer,20,Yes
+1062,20,B.Tech Computer Science,Machine Learning,AI Engineer,28,No
+1063,20,B.Tech Computer Science,Finance,AI Engineer,19,Yes
+1064,20,B.Tech Computer Science,Econometrics,IoT Engineer,18,No
+1065,24,B.Sc Statistics,Python,ML Engineer,22,No
+1066,20,BCA,Python,IoT Engineer,16,No
+1067,25,B.Tech IT,Finance,FinTech Analyst,14,Yes
+1068,21,BA Economics,Python,AI Engineer,26,No
+1069,23,B.Tech Electronics,Business Analytics,Business Analyst,15,No
+1070,22,BCA,Python,ML Engineer,22,No
+1071,23,BA Economics,Econometrics,Full Stack Developer,17,Yes
+1072,24,B.Sc Data Science,Data Analysis,FinTech Analyst,17,Yes
+1073,25,B.Sc Data Science,Business Analytics,ML Engineer,23,No
+1074,25,BCA,Finance,FinTech Analyst,10,Yes
+1075,25,B.Tech IT,Machine Learning,Cloud Solutions Architect,12,No
+1076,22,B.Tech AI & ML,Python,Data Scientist,20,No
+1077,23,BBA,Embedded Systems,ML Engineer,24,No
+1078,24,BA Economics,Web Development,IoT Engineer,12,Yes
+1079,22,BBA,Python,ML Engineer,22,Yes
+1080,23,BCA,Data Analysis,IoT Engineer,13,Yes
+1081,23,B.Tech Electronics,Embedded Systems,Data Scientist,25,No
+1082,24,B.Sc Statistics,Cloud Computing,AI Engineer,26,No
+1083,23,B.Tech AI & ML,Finance,ML Engineer,23,No
+1084,25,B.Sc Data Science,Web Development,Economic Data Analyst,11,No
+1085,25,BA Economics,Machine Learning,AI Engineer,24,Yes
+1086,20,BA Economics,Web Development,AI Engineer,21,Yes
+1087,23,B.Tech IT,Business Analytics,Business Analyst,10,Yes
+1088,23,BBA,Cloud Computing,Data Scientist,22,No
+1089,25,B.Com,Deep Learning,IoT Engineer,11,Yes
+1090,25,B.Sc Statistics,Machine Learning,FinTech Analyst,11,Yes
+1091,21,BBA,Embedded Systems,Cloud Solutions Architect,12,Yes
+1092,24,B.Tech AI & ML,Web Development,Business Analyst,19,No
+1093,25,B.Tech IT,Python,Business Analyst,17,Yes
+1094,22,B.Tech AI & ML,Machine Learning,FinTech Analyst,18,No
+1095,22,B.Tech AI & ML,Deep Learning,FinTech Analyst,17,No
+1096,25,B.Com,Deep Learning,Business Analyst,20,No
+1097,21,BBA,Cloud Computing,Data Analyst,19,Yes
+1098,22,B.Tech AI & ML,Embedded Systems,Business Analyst,12,Yes
+1099,23,B.Tech Computer Science,Embedded Systems,ML Engineer,28,No
+1100,23,B.Sc Data Science,Python,IoT Engineer,18,Yes
+1101,20,B.Tech Computer Science,Cloud Computing,Business Analyst,14,No
+1102,23,BA Economics,Business Analytics,Business Analyst,10,Yes
+1103,25,BA Economics,Embedded Systems,IoT Engineer,12,No
+1104,24,B.Tech Computer Science,Econometrics,Business Analyst,12,Yes
+1105,25,BA Economics,Econometrics,IoT Engineer,14,Yes
+1106,24,B.Sc Statistics,Embedded Systems,Data Scientist,26,No
+1107,20,B.Sc Statistics,Business Analytics,Economic Data Analyst,20,No
+1108,22,BBA,Finance,Data Scientist,23,Yes
+1109,21,BBA,Machine Learning,Data Scientist,25,Yes
+1110,25,BCA,Python,AI Engineer,20,No
+1111,20,B.Tech Electronics,Finance,Business Analyst,15,No
+1112,25,B.Tech Computer Science,Machine Learning,Cloud Solutions Architect,15,No
+1113,22,B.Sc Statistics,Web Development,Cloud Solutions Architect,16,No
+1114,22,B.Com,Deep Learning,Data Analyst,18,Yes
+1115,25,BCA,Web Development,FinTech Analyst,17,Yes
+1116,24,BCA,Python,IoT Engineer,14,No
+1117,23,B.Sc Statistics,Finance,ML Engineer,23,No
+1118,24,BCA,Finance,AI Engineer,23,Yes
+1119,24,B.Tech AI & ML,Python,AI Engineer,28,No
+1120,23,BBA,Deep Learning,Full Stack Developer,11,Yes
+1121,22,B.Tech Computer Science,Machine Learning,AI Engineer,27,No
+1122,24,B.Tech Electronics,Python,IoT Engineer,18,No
+1123,20,B.Tech IT,Business Analytics,Business Analyst,18,No
+1124,20,BA Economics,Web Development,Data Scientist,28,No
+1125,23,BBA,Business Analytics,Data Scientist,27,No
+1126,24,B.Tech Computer Science,Data Analysis,Cloud Solutions Architect,14,Yes
+1127,21,B.Com,Deep Learning,Cloud Solutions Architect,13,Yes
+1128,22,B.Sc Data Science,Python,Full Stack Developer,14,No
+1129,23,B.Sc Statistics,Finance,Full Stack Developer,17,No
+1130,20,BA Economics,Business Analytics,IoT Engineer,18,Yes
+1131,24,BCA,Machine Learning,AI Engineer,21,Yes
+1132,25,B.Sc Statistics,Deep Learning,Business Analyst,19,No
+1133,22,B.Com,Finance,Cloud Solutions Architect,18,No
+1134,20,B.Tech Computer Science,Econometrics,Data Scientist,25,No
+1135,24,BA Economics,Deep Learning,Full Stack Developer,18,No
+1136,22,BBA,Python,Full Stack Developer,13,Yes
+1137,23,B.Sc Data Science,Machine Learning,Business Analyst,15,No
+1138,21,B.Tech Computer Science,Econometrics,Data Analyst,10,Yes
+1139,23,B.Tech IT,Econometrics,Cloud Solutions Architect,11,No
+1140,21,B.Tech Electronics,Cloud Computing,Data Analyst,16,Yes
+1141,20,B.Com,Data Analysis,Cloud Solutions Architect,18,No
+1142,21,B.Tech Electronics,Python,Business Analyst,14,No
+1143,24,B.Tech IT,Cloud Computing,ML Engineer,21,No
+1144,21,BBA,Finance,ML Engineer,25,Yes
+1145,22,B.Com,Econometrics,Data Scientist,28,No
+1146,20,B.Tech AI & ML,Deep Learning,Economic Data Analyst,18,No
+1147,23,B.Tech Computer Science,Business Analytics,Data Scientist,23,No
+1148,20,B.Sc Data Science,Deep Learning,ML Engineer,24,No
+1149,23,B.Sc Data Science,Deep Learning,Business Analyst,14,No
+1150,20,B.Com,Deep Learning,IoT Engineer,10,Yes
+1151,22,B.Com,Cloud Computing,AI Engineer,28,No
+1152,20,BA Economics,Data Analysis,FinTech Analyst,16,Yes
+1153,20,B.Tech AI & ML,Data Analysis,Business Analyst,16,No
+1154,24,B.Tech IT,Cloud Computing,IoT Engineer,13,No
+1155,21,B.Tech Computer Science,Embedded Systems,Data Scientist,27,No
+1156,23,B.Tech Electronics,Business Analytics,ML Engineer,24,No
+1157,23,BBA,Web Development,ML Engineer,22,No
+1158,20,B.Sc Data Science,Python,ML Engineer,18,Yes
+1159,22,B.Tech AI & ML,Business Analytics,FinTech Analyst,10,Yes
+1160,23,B.Com,Business Analytics,Data Analyst,10,Yes
+1161,23,BA Economics,Econometrics,FinTech Analyst,18,No
+1162,24,B.Tech Computer Science,Finance,Economic Data Analyst,15,No
+1163,22,BCA,Embedded Systems,Cloud Solutions Architect,17,No
+1164,22,B.Com,Python,Data Scientist,26,Yes
+1165,23,B.Tech AI & ML,Machine Learning,FinTech Analyst,12,Yes
+1166,25,B.Tech AI & ML,Cloud Computing,Data Scientist,26,No
+1167,20,B.Tech Computer Science,Econometrics,Data Scientist,28,No
+1168,23,B.Tech IT,Python,AI Engineer,28,Yes
+1169,20,B.Tech IT,Web Development,Data Scientist,18,Yes
+1170,21,B.Tech AI & ML,Embedded Systems,Business Analyst,11,No
+1171,25,B.Sc Statistics,Econometrics,Data Scientist,22,No
+1172,21,B.Tech Electronics,Machine Learning,ML Engineer,21,Yes
+1173,23,B.Tech AI & ML,Econometrics,Business Analyst,12,Yes
+1174,21,BBA,Machine Learning,ML Engineer,21,Yes
+1175,22,BBA,Business Analytics,Full Stack Developer,16,Yes
+1176,20,B.Tech Electronics,Econometrics,Data Analyst,17,Yes
+1177,21,BCA,Embedded Systems,AI Engineer,18,Yes
+1178,20,B.Tech Electronics,Econometrics,AI Engineer,19,Yes
+1179,21,B.Sc Data Science,Finance,Data Analyst,17,Yes
+1180,25,B.Sc Statistics,Deep Learning,Full Stack Developer,20,Yes
+1181,24,B.Tech Electronics,Finance,Full Stack Developer,20,No
+1182,24,B.Tech IT,Python,Business Analyst,14,No
+1183,24,BBA,Python,Economic Data Analyst,16,Yes
+1184,23,B.Sc Statistics,Cloud Computing,ML Engineer,19,No
+1185,24,BA Economics,Business Analytics,Cloud Solutions Architect,18,No
+1186,21,BBA,Business Analytics,IoT Engineer,12,Yes
+1187,24,B.Tech AI & ML,Econometrics,Business Analyst,20,No
+1188,22,B.Tech Electronics,Business Analytics,Full Stack Developer,15,Yes
+1189,22,B.Tech Computer Science,Econometrics,Data Analyst,18,No
+1190,21,BBA,Econometrics,AI Engineer,23,No
+1191,22,BCA,Data Analysis,AI Engineer,27,Yes
+1192,23,B.Sc Data Science,Web Development,Business Analyst,18,No
+1193,24,B.Tech IT,Embedded Systems,FinTech Analyst,12,Yes
+1194,24,B.Tech Computer Science,Cloud Computing,Data Analyst,20,Yes
+1195,24,B.Tech Electronics,Web Development,AI Engineer,24,No
+1196,25,B.Sc Statistics,Python,Business Analyst,15,Yes
+1197,21,B.Tech AI & ML,Embedded Systems,Cloud Solutions Architect,10,No
+1198,22,B.Tech Computer Science,Cloud Computing,Data Analyst,16,No
+1199,20,B.Tech AI & ML,Finance,IoT Engineer,13,No
+1200,23,B.Sc Data Science,Deep Learning,Cloud Solutions Architect,15,Yes
